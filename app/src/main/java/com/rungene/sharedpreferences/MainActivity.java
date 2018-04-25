@@ -10,6 +10,8 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.EditText;
 
+
+//http://www.techobbyist.com/2017/02/15/working-with-shared-preferences-in-android-remember-username-and-password-functionality/
 public class MainActivity extends AppCompatActivity implements TextWatcher,
 
         CompoundButton.OnCheckedChangeListener{
